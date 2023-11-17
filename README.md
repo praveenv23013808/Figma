@@ -446,7 +446,8 @@ top: 80px;
 background: url(WhatsApp Image 2023-11-06 at 11.28.jpg);
 ```
 ## OUTPUT:
-![283181216-7df8a01c-a6e3-4d87-b235-8f0d3c1a7680](https://github.com/praveenv23013808/Figma/assets/145824728/3a8a11d9-04f2-4f48-8519-d0d756f7d9b1)
+![Screenshot 2023-11-17 205147](https://github.com/praveenv23013808/Figma/assets/145824728/ff0451ef-1d0c-4094-a976-5d43790a7386)
+
 
 
 ## RESULT:
